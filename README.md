@@ -1,6 +1,4 @@
 # 🍕 Pizza Sales Data Analysis & Power BI Dashboard
-https://github.com/Garvitjii/Pizza_Sales-Performance-and-Analysis-Dashboard/blob/7e9f0519a90b878d4e561361779cf0c21327f477/Screenshot%202026-01-07%20183130.png
-
 ## 📌 Project Overview
 - This project analyzes pizza sales data using a single consolidated dataset to extract business insights related to revenue, sales performance, and customer ordering behavior.
 - The project follows a complete data analytics workflow:
