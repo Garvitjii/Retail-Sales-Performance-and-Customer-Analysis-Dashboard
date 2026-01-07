@@ -82,20 +82,6 @@ All calculations and aggregations were performed using SQL queries in SSMS.
 
 ---
 
-## 📂 Project Structure
-## 📁 Pizza-Sales-Analysis
-│
-├── 📁 data
-│   └── pizza_sales_dataset.csv
-│
-├── 📁 sql
-│   └── pizza_sales_sql_queries.docx
-│
-├── 📁 powerbi
-│   └── Pizza_Sales_Dashboard.pbix
-│
-└── README.md
-
 ## 🚀 How to Run This Project
 - Load the CSV file into SQL Server Management Studio
 - Perform data cleaning and KPI calculations using SQL
