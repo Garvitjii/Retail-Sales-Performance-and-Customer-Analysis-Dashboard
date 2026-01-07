@@ -1,6 +1,10 @@
 # 🍕 Pizza Sales Data Analysis & Power BI Dashboard
 <img width="1333" height="739" alt="Screenshot 2026-01-07 183130" src="https://github.com/user-attachments/assets/af7fd8d1-655f-4845-b0e2-0ae74e74f993" />
 
+### 2nd Page Best / Worst Sellers 
+
+<img width="1341" height="730" alt="Screenshot 2026-01-07 183205" src="https://github.com/user-attachments/assets/72f91c3b-e988-4e67-a0e3-7c0b3d849e19" />
+
 ## 📌 Project Overview
 - This project analyzes pizza sales data using a single consolidated dataset to extract business insights related to revenue, sales performance, and customer ordering behavior.
 - The project follows a complete data analytics workflow:
